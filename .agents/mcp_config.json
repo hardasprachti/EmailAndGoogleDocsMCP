@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "google-workspace": {
+      "command": "python",
+      "args": [
+        "d:/NextLeap Projects/MCP for Sending email and Google doc/server.py"
+      ]
+    }
+  }
+}
